@@ -1,0 +1,27 @@
+//
+//  ranqiguanjia.pch
+//  ranqiguanjia
+//
+//  Created by 黄少华 on 15/6/19.
+//  Copyright (c) 2015年 黄少华. All rights reserved.
+//
+
+#ifndef ranqiguanjia_ranqiguanjia_pch
+#define ranqiguanjia_ranqiguanjia_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+// 自定义Log
+#ifdef DEBUG
+#define SHLog(...)  NSLog(__VA_ARGS__)
+#else
+#define SHLog(...)
+#endif
+
+#import "UIView+NX.h"
+#import "UIBarButtonItem+SD.h"
+#import "UIColor+HexColor.h"
+
+
+#endif

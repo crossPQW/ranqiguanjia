@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8A8CD092-0A08-470A-94BB-39A95434F90B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ranqiguanjia</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6FB03F9D7A2F927BEB25DCB9A804EF8F28DC5DCC</key>
+		<string>https://github.com/crossPQW/ranqiguanjia.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ranqiguanjia.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6FB03F9D7A2F927BEB25DCB9A804EF8F28DC5DCC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/crossPQW/ranqiguanjia.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6FB03F9D7A2F927BEB25DCB9A804EF8F28DC5DCC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6FB03F9D7A2F927BEB25DCB9A804EF8F28DC5DCC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ranqiguanjia</string>
+		</dict>
+	</array>
+</dict>
+</plist>
